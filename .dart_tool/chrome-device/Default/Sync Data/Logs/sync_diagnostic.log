@@ -1,0 +1,12 @@
+2024-08-29T08:09:09.702Z P:14084 T:20016] SyncServiceImpl::Initialize,SyncState after authenticated was: NotSignedIn
+2024-08-29T08:09:10.156Z P:14084 T:20016] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-08-29T08:09:10.157Z P:14084 T:20700] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-08-29T08:09:10.602Z P:14084 T:20016] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-08-29T08:09:10.602Z P:14084 T:20016] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-08-29T08:09:10.602Z P:14084 T:20016] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-08-29T08:09:12.361Z P:14084 T:20016] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-08-29T08:09:12.361Z P:14084 T:20016] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-08-29T08:09:12.361Z P:14084 T:20016] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
+2024-08-29T08:09:13.106Z P:14084 T:16624] SyncSchedulerImpl::OnSyncNetworkError,Syncer error: Network error (ERR_CONNECTION_RESET)
+2024-08-29T08:09:13.106Z P:14084 T:16624] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Syncer error: Success
+2024-08-29T08:09:32.775Z P:14084 T:20016] SyncServiceImpl::ResetEngine,Reset engine with reason: 0

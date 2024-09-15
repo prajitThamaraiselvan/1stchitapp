@@ -1,0 +1,2 @@
+{"logTime": "0829/080913", "correlationVector":"bWHQzohraLNYLAJkURv9Ex","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "0829/080913", "correlationVector":"AHII4uFr2346pSUQveKRVq.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "migrationStage":"", "server":""}}

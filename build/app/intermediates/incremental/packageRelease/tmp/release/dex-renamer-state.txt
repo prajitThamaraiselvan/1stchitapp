@@ -1,0 +1,4 @@
+#Thu Aug 22 12:21:07 IST 2024
+base.0=P\:\\SGL\\gst_report\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,13 @@
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/icudtl.dat
+P:/SGL/gst_report/build/windows/x64/runner/Debug/flutter_windows.dll
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/assets/count.png
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/assets/report.png
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+P:/SGL/gst_report/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
